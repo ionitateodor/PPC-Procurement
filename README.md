@@ -41,14 +41,9 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 
 ## 🚀 Cum să utilizezi acest proiect?
 
-1️⃣ Clonează repository-ul:
-   ```sh
-   git clone https://github.com/utilizator/procurement-ppc.git
+https://github.com/ionitateodor/PPC-Procurement.git
 
-
----
-
-### 📌 6. **Rezultate și insight-uri** *(Arată valoarea analizei tale!)*  
+### 📌  **Rezultate și insight-uri** *(Arată valoarea analizei tale!)*  
 ```md
 ## 📈 Insight-uri cheie din analiza PPC
 
