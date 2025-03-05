@@ -38,15 +38,15 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 ## 📂 Structura proiectului
 
 - 📁 `Data/` - Fișierele SQL pentru baza de date
-  - `database_schema.sql` - Structura bazei de date
-  - `data_import.sql` - Inserții de date
+  - `PPC Procurment Dashboard.sql` - Structura bazei de date
 - 📁 `PowerBI/` - Fișierul raportului
-  - `Procurement_PPC.pbix`
+  - `PPC Procurment Dashboard.pbix`
 - 📝 `README.md` - Documentația proiectului
 
 ## 🚀 Cum să utilizezi acest proiect?
 
-https://github.com/ionitateodor/PPC-Procurement.git
+Clonează repository-ul:
+git clone https://github.com/utilizator/procurement-ppc.git
 
 ### 📌  **Rezultate și insight-uri** *(Arată valoarea analizei tale!)*  
 ```md
