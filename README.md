@@ -9,8 +9,8 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 ![Overview Extended](https://i.imgur.com/87uRAzC.jpeg)
 
 ### 🔹 Supplier Performance
-![Supplier Performance](https://i.imgur.com/JzqdIsj.jpeg)
-![Supplier Performance Extended](https://i.imgur.com/tPgLo8m.jpeg)
+![Supplier Performance](https://i.imgur.com/ixXxzRK.jpeg)
+![Supplier Performance Extended](https://i.imgur.com/GKz6BJM.jpeg)
 
 ### 🔹 Order Status
 ![Order Status](https://i.imgur.com/qAPMcbl.jpeg)
