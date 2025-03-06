@@ -33,7 +33,7 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 - **SQL Queries** - Extracția și transformarea datelor pentru Power BI
 - **PowerToys** - Selectarea paletei de culori
 - **Imgur** - Crearea de link-uri pentru imagini
-- **PowerPoint** - Crearea imagini si logo-uri
+- **PowerPoint** - Crearea imaginilor si logo-urilor
 
 ## 📂 Structura proiectului
 
@@ -46,11 +46,9 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 ## 🚀 Cum să utilizezi acest proiect?
 
  Clonează repository-ul:
-   ```sh
+
    git clone https://github.com/utilizator/procurement-ppc.git
 
-### 📌  **Rezultate și insight-uri** *(Arată valoarea analizei tale!)*  
-```md
 ## 📈 Insight-uri cheie din analiza PPC
 
 ✔ Supplier Performance - Furnizorii C și D au cele mai mari întârzieri în livrări.  
