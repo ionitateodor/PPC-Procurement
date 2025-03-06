@@ -56,7 +56,7 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 git clone https://github.com/utilizator/procurement-ppc.git
 
 
-## 📈 Insight-uri cheie din analiza PPC
+## 📈 Insight-uri cheie din analiza PPC Romania
 
 ✔ Supplier Performance - Furnizorii C și D au cele mai mari întârzieri în livrări.  
 ✔ Order Status - 45.28% dintre comenzi au întârzieri, iar 22.64% au fost anulate.  
