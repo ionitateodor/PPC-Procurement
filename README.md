@@ -67,5 +67,5 @@ git clone https://github.com/utilizator/procurement-ppc.git
 
 Dacă ai întrebări sau vrei să discutăm despre proiect, mă poți găsi pe:
 
-- 🌍 [LinkedIn](www.linkedin.com/in/ionita-teodor)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/ionita-teodor)
 - 📧 Email: ionitateodor89@gmail.com
