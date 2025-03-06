@@ -6,7 +6,7 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 
 ### 🔹 Overview
 ![Overview Dashboard](https://i.imgur.com/pK1XhBi.jpeg)
-![Overview Extended](https://i.imgur.com/87uRAzC.jpeg)
+![Overview Extended](https://i.imgur.com/QnNT5Xl.jpeg)
 
 ### 🔹 Supplier Performance
 ![Supplier Performance](https://i.imgur.com/ixXxzRK.jpeg)
