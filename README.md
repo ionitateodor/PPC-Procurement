@@ -45,8 +45,9 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 
 ## 🚀 Cum să utilizezi acest proiect?
 
-Clonează repository-ul:
-git clone https://github.com/utilizator/procurement-ppc.git
+ Clonează repository-ul:
+   ```sh
+   git clone https://github.com/utilizator/procurement-ppc.git
 
 ### 📌  **Rezultate și insight-uri** *(Arată valoarea analizei tale!)*  
 ```md
