@@ -52,10 +52,10 @@ git clone https://github.com/utilizator/procurement-ppc.git
 ```md
 ## 📈 Insight-uri cheie din analiza PPC
 
-✔ **Supplier Performance** - Furnizorii C și D au cele mai mari întârzieri în livrări.  
-✔ **Order Status** - 45.28% dintre comenzi au întârzieri, iar 22.64% au fost anulate.  
-✔ **Payment Analysis** - 39.62% din plăți sunt întârziate, iar 40% din acestea sunt datorate furnizorului Z.  
-✔ **Category Analysis** - Categoriile A și B generează cele mai mari costuri, dar au un ROI ridicat.
+✔ Supplier Performance - Furnizorii C și D au cele mai mari întârzieri în livrări.  
+✔ Order Status - 45.28% dintre comenzi au întârzieri, iar 22.64% au fost anulate.  
+✔ Payment Analysis - 39.62% din plăți sunt întârziate,in valoarea de 55K Lei din partea furnizorului J.  
+✔ Category Analysis - Categoriile Office Supplies și IT Equipment B generează cele mai mari costuri pe an,dar in luna februarie categoria de Cleaning a avut un procent mai mare,acela de 49.06%.
 
 ## 📞 Contact
 
