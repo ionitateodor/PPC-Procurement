@@ -17,8 +17,8 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 ![Order Status Extended](https://i.imgur.com/4pRUjXP.jpeg)
 
 ### 🔹 Payments Analysis
-![Payments Analysis](https://i.imgur.com/2kcJksR.jpeg)
-![Payments Analysis Extended](https://i.imgur.com/cp6bCDp.jpeg)
+![Payments Analysis](http://i.imgur.com/gOw2Bqu.jpeg)
+![Payments Analysis Extended](https://i.imgur.com/GB0MdfG.jpeg)
 
 ### 🔹 Category Analysis
 ![Category Analysis](https://i.imgur.com/zkmUPwQ.jpeg)
