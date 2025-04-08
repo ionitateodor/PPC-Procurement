@@ -13,16 +13,16 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 ![Supplier Performance Extended](https://i.imgur.com/4oDg1Yz.jpeg)
 
 ### 🔹 Order Status
-![Order Status](https://i.imgur.com/HibN5Ii.jpeg)
-![Order Status Extended](https://i.imgur.com/n0ZI3eM.jpeg)
+![Order Status](https://i.imgur.com/CwlgRra.jpeg)
+![Order Status Extended](https://i.imgur.com/ACIJBov.jpeg)
 
 ### 🔹 Payments Analysis
-![Payments Analysis](https://i.imgur.com/xeAVbcz.jpeg)
-![Payments Analysis Extended](https://i.imgur.com/uEuSzBb.jpeg)
+![Payments Analysis](https://i.imgur.com/xTIiNxq.jpeg)
+![Payments Analysis Extended](https://i.imgur.com/O07Otf4.jpeg)
 
 ### 🔹 Category Analysis
-![Category Analysis](https://i.imgur.com/jvuvAaL.jpeg)
-![Category Analysis Extended](https://i.imgur.com/GEG3HIg.jpeg)
+![Category Analysis](https://i.imgur.com/kbkYTuh.jpeg)
+![Category Analysis Extended](https://i.imgur.com/c1Dzjd9.jpeg)
 
 ## 🛠 Tehnologii utilizate
 
