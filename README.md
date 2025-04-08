@@ -5,24 +5,24 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 ## 📊 Dashboard-uri
 
 ### 🔹 Overview
-![Overview Dashboard](https://i.imgur.com/pK1XhBi.jpeg)
-![Overview Extended](https://i.imgur.com/QnNT5Xl.jpeg)
+![Overview Dashboard](https://i.imgur.com/U3pkTcO.jpeg)
+![Overview Extended](https://i.imgur.com/vKZJGsJ.jpeg)
 
 ### 🔹 Supplier Performance
-![Supplier Performance](https://i.imgur.com/ixXxzRK.jpeg)
-![Supplier Performance Extended](https://i.imgur.com/GKz6BJM.jpeg)
+![Supplier Performance](https://i.imgur.com/2lKnRqJ.jpeg)
+![Supplier Performance Extended](https://i.imgur.com/s0JQMAp.jpeg)
 
 ### 🔹 Order Status
-![Order Status](https://i.imgur.com/gHIrnN5.jpeg)
-![Order Status Extended](https://i.imgur.com/4pRUjXP.jpeg)
+![Order Status](https://i.imgur.com/HibN5Ii.jpeg)
+![Order Status Extended](https://i.imgur.com/n0ZI3eM.jpeg)
 
 ### 🔹 Payments Analysis
-![Payments Analysis](http://i.imgur.com/gOw2Bqu.jpeg)
-![Payments Analysis Extended](https://i.imgur.com/GB0MdfG.jpeg)
+![Payments Analysis](https://i.imgur.com/xeAVbcz.jpeg)
+![Payments Analysis Extended](https://i.imgur.com/uEuSzBb.jpeg)
 
 ### 🔹 Category Analysis
-![Category Analysis](https://i.imgur.com/zkmUPwQ.jpeg)
-![Category Analysis Extended](https://i.imgur.com/XgrDMDO.jpeg)
+![Category Analysis](https://i.imgur.com/jvuvAaL.jpeg)
+![Category Analysis Extended](https://i.imgur.com/GEG3HIg.jpeg)
 
 ## 🛠 Tehnologii utilizate
 
