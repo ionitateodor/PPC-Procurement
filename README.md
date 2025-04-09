@@ -55,10 +55,10 @@ Acest proiect demonstrează utilizarea Power BI și MySQL pentru analiza datelor
 
 git clone https://github.com/ionitateodor/PPC-Procurement
 
-##📊 Vizualizare Dashboard Power BI
-Poți vizualiza raportul interactiv Power BI pentru proiectul PPC Procurement aici:
-[Dashboard Power BI - PPC Procurement](https://app.powerbi.com/links/zt_e4XgIDg?ctid=ce73e05e-1b4e-4df3-b69c-705b18aaeefe&pbi_source=linkShare)
+## 📊 Vizualizare Dashboard Power BI
 
+Poți vizualiza raportul interactiv Power BI pentru proiectul **PPC Procurement** aici:  
+👉 [Dashboard Power BI - PPC Procurement](https://app.powerbi.com/links/zt_e4XgIDg?ctid=ce73e05e-1b4e-4df3-b69c-705b18aaeefe&pbi_source=linkShare)
 
 ## 📈 Insight-uri cheie din analiza PPC Romania
 
